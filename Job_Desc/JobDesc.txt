@@ -1,0 +1,6 @@
+We are actively looking for more colleagues to join us in creating the world’s best geospatial mapping and data analysis platform. As a platform that serves millions of users and domains, our software needs to be modular, reusable, and well crafted. We iterate rapidly, constantly learning from feedback, metrics, and the mission and goals of our broad user community. 
+Build C++ software components that follow industry-standard design patterns, development methodologies, and deployment models. Work closely with product engineers to implement requirements and create application architectures and API to meet product goals. Design and develop stable software that includes automated test validation. Develop reusable components and libraries for use internally and as open source. Strong knowledge of C++ (STL, C++ 11, Boost) C#
+Understanding of algorithms, data structures, and design patterns
+Knowledge of Agile development methodologies and test-driven development processes
+Experience developing software that runs on a server or on the cloud
+Experience with application scripting languages (e.g., Python, JavaScript) and web protocols and formats such as REST and JSON

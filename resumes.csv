@@ -1,0 +1,399 @@
+job_title,resume
+Software Engineer Intern,"
+Nathan Schwedock
+adk83f@r.postjobfree.com 858-***-****
+***** ***** **** **., *** Diego, CA 92128
+Objective:
+Looking for a summer internship concerning computer-involved work. Primarily looking for jobs analyzing and sorting data, or developing software. Skills:
+● Intermediate experience in Java, Python, and C# computer language
+● 6 months of experience in Motorola 68000 Assembly Language
+● Knowledgeable of several different data structures and Database science including SQL
+● Proficient in Microsoft Word, Excel, Google Docs, and Google Sheets
+● Quick typing skills
+Experience:
+Round Table Pizza June 2020 - October 2020
+Pizza Delivery Driver
+● Delivered Pizza to customers in a polite, timely, and safe manner
+● Maintained organization within the store
+● Trained new employees daily routine of opening the store up and prepping vegetables
+● Carefully created and topped pizzas quickly and efficiently Outpost Summer Camps June 2019 - July 2019
+Senior Counselor
+● Entertain 13 kids ages 7-8 for approximately 7 hours each day Monday to Friday
+● Ensure the kids’ safety at all times
+● Driving 14 passengers in a commercially licensed vehicle to and from their houses Education and Training:
+San Diego State University San Diego, CA, Computer Science major, Junior, GPA: 3.34 Mt. Carmel High School (MCHS) San Diego, CA
+Accomplishments:
+● Rank of Life Scout in the Boy Scouts of America
+● Varsity Tennis, MVP in JV Tennis at MCHS
+● Outstanding Student award at MCHS
+● Current Heritage Chair for the Zeta Beta Tau fraternity at San Diego State University
+● MCHS robotics club
+Certificates:
+● Adult and Child First Aid/CPR/AED - Expires 06/10/2021 Hobbies:
+● Gaming, including creating two computer games through the Unity game engine
+● Bowling
+
+"
+Software Engineer Intern,"
+Boyi (Booker) YU
+School of Engineering, Box D / *84 Hope Street, Providence, RI 02912
+boyi adkd12@r.postjobfree.com +1-401-***-**** linkedin.com/in/boyi-yu Education
+Brown University Providence, RI
+M.S. in Electrical and Computer Engineering Aug. 2019 – May 2020, Jan. 2021 – Dec. 2021 Shanghai Maritime University Shanghai, CN
+B.ENG in Electrical Engineering and Automation Sept. 2015 – June 2019 Skills and Honors
+Programming Language: Go, C/C++, Java, Python, SQL, MATLAB, x86 Assembly, HTML Frameworks and Tools: Linux, Git, gRPC, Gin, MySQL, Redis, Zookeeper, Postman, Docker, Kubernetes, Qt, Eigen Awards: 2nd National Prize (top 5%) in Chinese Mathematical Modeling Contest (Undergraduate) [2017] 1st Class Prize in Shanghai, China Mathematical Modeling Contest (Undergraduate) [2017] Relevant Coursework: Distributed Computer Systems, Fundamentals of Computer Systems, Scientific Programming in C++, Pattern Recognition and Machine Learning, 3D Photography Professional Experience
+Software Engineer Intern (Full time) June 2020 – Dec. 2020 Tencent, Interactive Entertainment Group Shenzhen, CN
+• Refactored a ticket management system for User Platform Dept. applying SaaS multi-tenant design and configurable APIs using Golang, MySQL and Redis.
+• Built an API gateway featuring identity verification, network traffic monitoring and client-to-microservice communication by RPC using Gin and tRPC framework.
+• Implemented a fully configurable mock-server that supports custom port change, router configuration and Lua scripts to test API with wrk.
+• Conducted unit testing and performance testing using Go tool pprof, wrk and Apache ab. R&D Intern (Full time) July 2018 – Aug. 2018
+Siemens, Corporate Technology Dept. Shanghai, CN
+• Participated in the research and development of a new generation of PMSM drive, learned the architecture of ZYNQ-7000 SoC and completed communication tests on the PS side of the chip such as EMIO & AXI interface.
+• Applied PID with Fuzzy Logic Control to the SVPWM controlled PMSM in SIMULINK.
+• Modified and imported the generated C code to Xilinx SDK to control the PS side of ZYNQ-7000.
+• Responsible for the C program which used index pulse to calibrate initial position of PMSM. Projects
+PuddleStore - A Distributed File System, Group project Apr. 2020 – May. 2020
+• Implemented Tapestry, a Decentralized Object Location and Routing system using Golang and gRPC.
+• Designed a distributed file system based on Zookeeper and Tapestry protocol, and implemented distributed R-W lock using Zookeeper for extra credits.
+Raft, Group project Mar. 2020 – Apr. 2020
+• Created a consensus protocol directly based on Raft paper to achieve passive replication.
+• Implemented leader election, log replication and log commitment logic for Raft with Golang, and created a web application to control and interact with Raft nodes using gRPC and Docker for extra credits. WeensyOS, Independent Feb. 2020 – Apr. 2020
+• Implemented virtual memory, process creation and cleanup logic of a semi-finished OS and achieved kernel isolation, process isolation and virtual page allocation. VRML 3D Model Viewer, Independent, Advisor: Prof. Gabriel Taubin Nov. 2019 – Dec. 2019
+• Designed a set of tree-based data structures to store and parse elements of 3D files in VRML format with C++.
+• Processed model transformation, normal vector calculation and surface reconstruction using Eigen and Modified user interface using Qt.
+Multi-Object Detection in Traffic Scenes, Graduation Project Jan. 2019 – May 2019
+• Applied YOLO in real-time detection of up to 9 kinds of objects in general traffic scenes.
+• Trained the model with Darkflow and achieved 49.21% mAP accuracy in the final test.
+
+"
+Software Engineer Intern,"
+HARISH PUMBHADIA
+adjl2c@r.postjobfree.com https://github.com/harishpumbhadia www.linkedin.com/in/harishpumbhadia EDUCATION
+THE UNIVERSITY OF TEXAS AT ARLINGTON Jan 2020 - Dec 2021 Master of Science in Computer Science
+Majors : Arti cial Intelligence and Database Systems CHARUSAT UNIVERSITY 2014 - 2018
+Bachelor of Technology in Information Technology
+TECHNICAL SKILLS
+Programming Languages Java, J2EE(Servlet, JDBC, JSP), Scala, C++, C Big data ecosystem Hadoop MapReduce, Hive, Pig, Spark, Pregel Web Technologies HTML, CSS, Javascript(DOM), React/Redux Js, PHP Database MySql, Oracle, Sqlite
+Testing Tools JUnit, JaCoCo, PIT Mutation
+Framework and Other Skills Spring, Struts2, MVC, Git, Linux, Laravel, Bootstrap WORK EXPERIENCE
+Software Engineer Aug 2018 - Feb 2019
+Hubincred Solutions LLP Gujarat, India
+• Developed Application by applying experience in Java programming Language
+• Worked on collaborative approach with the team.
+Software Engineer Intern Feb 2018 - July 2018
+Acty System Pvt. ltd Gujarat, India
+• Tackled array of tasks, including developing console application, web application under watchful eye of project manager.
+• Completed projects and work assignments on time, while aware of tight deadlines PROJECTS
+Human Resource Information System. The aim of this project is to provide an automation for HR. The system has been to facilitate good interaction/communication facilities between the employees and HR Administration with di erent type of roles assigned like HR and employee login. JSP, Servlet, Java, MySql Augusto Mijares, Full Stack Web Application. It is a website in spanish language. It has Add, Edit, Delete functionality for handling Projects, Events and Teams.Website’s front-end design is responsive and handles role for both the User and Admin. HTML, CSS, PHP, Javascript, Bootstrap, Laravel framework for MVC Sorting Visualizer. Build a React/React application for visualizing sorting algorithm. Implemented Quick Sort, Merge Sort, Heap Sort, Bubble Sort. HTML, CSS, React Js Classroom. The purpose of this project is to facilitate paperless communication between teachers and students and streamline educational work ow. It was like sort of Google classroom HTML, CSS, JSP, MySql Android App to use smartphones as Mouse (sensor data processing). The main aim and goal of this app is to solve majority of the problems like carrying hardware devices with us every time, hardware failures, etc. We can simply use our handy phone to operate laptops and computers. Java, Android, Sensor programming
+
+"
+Software Engineer/Business Analyst Intern,"
+HASSAAN HAQ
+Product/Data/Software
+408-***-**** adhw5v@r.postjobfree.com linkedin.com/in/hassaanhaq github.com/hassaan21 EDUCATION
+San Jose State University DEC 2021
+Bachelor of Science, Applied & Computational Mathematics Relevant Coursework Data Structures and Algorithms, Software Design, Objected Oriented Design, Human Computer Interaction, Discrete Mathematics, Boolean Algebra, Linear Algebra WORK EXPERIENCE
+Cisco Systems JUNE 2020 - PRESENT
+Business Analyst Intern
+• Collaborated with sales and business teams to create WebEx cloud migration plan for global partners, resulting in nearly $500M annual revenue
+• Co-managed $3B investment fund by utilizing Excel to analyze partners’ contract data
+• Created business proposal based off of the partner contract analysis that increased partners’ goal completion by 23%, resulting in $21M in earnings
+• Collaborated with data, engineering and sales teams to optimize contract analysis process, saving other interns’ time by over 15 hours a week
+• 1 of 2 interns from group of 6 to receive internship extension based on highest performance and best team player
+Seeloz, Inc. MAY 2019 - AUG 2019
+Software Engineer Intern (Python, HTML5, CSS3)
+• Collaborated with head UX designer to create and launch new company website (seeloz.com)
+• Reduced data scientists’ work by over 10 hours/week by developing a Python script to parse through hundreds of millions of lines of code in CSV & Excel files to clean & organize target data
+• Assisted the data science team in creating tables for various metrics
+• Created onboarding material for incoming employees and interns TECHNICAL PROJECTS
+MyCalendar (Java) AUG 2020
+• Designed and developed personalized calendar using Java Swing library for the GUI Stock Market API (Python) MARCH 2019
+• Developed a stock exchange interface allowing users to pull company stock data from a web API and providing best buy/sell time for that stock
+File Search (Python) FEB 2019
+• Developed a file/directory search program that found and displayed paths of all files in a directory and corresponding subdirectories until the root was reached LEADERSHIP EXPEREINCE
+UmmaHacks Hackathon Organizer JULY 2020
+• Organized first ever virtual hackathon targeted toward minorities in tech, with over 200 participants from all over the U.S. and Europe
+SKILLS
+Technical Skills: Python, Java, C, Javascript, HTML, CSS, Unix, Google Data Studio, Microsoft Excel (Data Analytics) Languages: English, Urdu, Arabic, Spanish
+
+"
+Database System developer and Software Engineer Intern,"
+Sayantani Bhattacharjee
+adhs5o@r.postjobfree.com +1-412-***-**** www.linkedin.com/in/sayantani-bhattacharjee EDUCATION
+University of Pittsburgh, Pittsburgh, PA (APRIL, 2020) Master of Sciences in Information Science (MSIS) 3.341/4.00 SRM University, Tamil Nadu, India
+B.Tech in Computer Science and Engineering (MAY, 2017) EXPERIENCE & PROJECTS
+Regeneron Pharmaceuticals Inc., New York JUN, 2019 - DEC, 2019 Data Platform Engineering Co-op
+● Created Apache Spark environment workflow to migrate existing metadata databases from AWS Glue Data Catalog to Apache Hive Metastore which required extensive research of AWS Glue and its components, and Apache Hive.
+● Briefly introduced to Apache Nifi for automated data transfer between in-house software. Gachon University, Seoul, South Korea NOV, 2016 - JAN, 2017 Research Project Intern
+● Participated in the “Patent Big Data Analysis” research by Web Scraping and Crawling USPTO websites.
+● Performed Data Mining to extract required information in order to optimize the data storage and performance of the website.
+University of Pittsburgh, Pittsburgh JUN, 2020 - PRESENT Database System Developer and Software Engineer Intern
+● Set-up, design and implement a Building Data Management System to be used for path recommendation and user indoor localization.
+● Back-end server is a NoSQL MongoDB database used to store geojson data and developed based on the Play framework and Scala programming language.
+● The front-end user interface is HTML5, CSS3 and JavaScript (ReactJS and LeafletJS). Study on Performance Comparisons of Relational and Non-Relational databases: APRIL, 2019
+● Advanced DBMS project that dealt with time performance comparisons between Relational DB (MySQL) and Non-Relational DB (MongoDB) transactions on simulated e-commerce data. Deepfake Detection: APRIL, 2020
+● An Artificial Intelligence project to identify manipulated neural networks generated synthetic instances of video data, from real data i.e. collected or created by human beings. Training the CNN involved the use of face-detection, extracting of resized faces and to create an input dataset of images, which would then each be classified as “REAL” or “FAKE” based on available metadata. Hexagon Capability Centre India, India AUG, 2017 - JUL, 2018 Software Analyst
+● Developed and handled optimization of C++, C# and Visual Basic code, in an Agile Work environment for the product-based organization.
+SKILLS
+● Proficient in:R, C++, C#, Python (libraries: pyspark, scipy, scikit-learn, pymongo, matplotlib, tensorflow, pyarrow, StanfordCoreNLP), MongoDB, PostgreSQL, Hive Metastore, Glue Data Catalog, Glue ETL Job, Glue Crawler, AWS S3, HTML5, CSS3, ReactJS, LeafletJS, Data processing and analytics, Data Mining and Data Warehousing.
+● Introduced to:Scala, Tableau, Apache Hive, SQLite, AWS Athena, HDFS, Apache Spark, Nifi, Flask framework, Play framework, Machine Learning and Artificial Intelligence.
+
+"
+Software Engineer Intern,"
+PARTH PANCHAL
+Clemson, SC 864-***-**** adhrlr@r.postjobfree.com LinkedIn GitHub
+EDUCATION
+CLEMSON UNIVERSITY – Clemson, USA May 2021
+Master of Science, Computer Science; Cumulative GPA: 3.6/4.0 UNIVERSITY OF MUMBAI – Mumbai, India May 2019
+Bachelor of Engineering, Information Technology; Cumulative GPA: 3.7/4.0 EXPERIENCE
+State Auto Insurance Companies Columbus, OH
+Software Engineer Intern Sept 2020 – Present
+• Improved the performance of quote estimator and unit tested the entire system to achieve more than 90% of the coverage before deploying the system into production by leveraging Python, AWS, Git, and Jira
+• Developed automated parallel validation tester to compare whether the two API requests & their responses match
+• Transformed and enriched the IVANS XML into the format required for quote estimation CLEMSON UNIVERSITY (HATLAB) Clemson, SC
+Research Assistant (Software Engineer) Jan 2020 – Present
+• Developed a recommendation system and increased the customer retention rate by 37% by displaying unusual recommendations and utilizing React & Flask
+AWARE HEALTHCARE San Francisco, CA
+Software Engineering Intern July 2020 – Aug 2020
+• Maximized the efficiency by 80% by developing ETL to support infrastructure, analytics and modeling workflows
+• Automated development workflows, maintained a patient management MVC web service and implemented new features as necessary in Python, Amazon Web Services (AWS), DynamoDB, Google API & Sendgrid API KUSTARD Mumbai, IN
+Full Stack Developer Intern July 2018 – Mar 2019
+• Led a team of 4 members to develop an application for visually impaired people to detect 9000+ objects and recognize people with the help of YOLO object detection model & Python
+• Validated and tested features against business use cases to ensure complete compliance HASURA Mumbai, IN
+Product Development Fellow Dec 2017 – Feb 2018
+• Launched a web application for customers to browse through products and help them in making a secure online payment by utilizing Flask, MySQL & Stripe API
+VISION MECHATRONICS Mumbai, IN
+Web Developer Intern June 2016 – Aug 2016
+• Devised a cost estimator that reduced the financial report preparation time by 63% by automating the entire process and leveraging PHP, SQL, HTML5 & CSS3
+• Designed the company website and boosted the page rank to 1st position by successfully implementing the SEO SKILLS
+Programming Languages – Python, Java, PHP, HTML5, CSS3, C++, C, Flask, React, JavaScript, Android Platforms & Tools – SQL, AWS, Git, Joomla, Jira, REST APIs, Tableau Concepts – Agile (Scrum), Cloud Computing, Machine Learning, Database Management, OOPs PROJECTS
+• Read between the lines (2020): Facilitated an NLP-based chatbot to analyse the outcome of sensitive voice commands on Voice Personal Assistant System (Amazon Alexa and Google Home) and its impact on security & privacy with an accuracy of 83%
+• Power Usage Predictor (2019): Leveraged the Clemson University power usage data to implement a polynomial regression technique with 87% accuracy to predict the power usage and derive the total cost of electricity
+• FoodPal (2019): Spearheaded a team of 4 members for the development of a food classification application which recognized the food and provided the nutritional facts CERTIFICATIONS
+• Agile with Atlassian Jira (2020)
+• Elite Rank in NPTEL Certification course on Data Structures & Algorithms using Python (2017)
+• Elite Rank in NPTEL Certification course on Introduction to Modern Application Development (2017)
+
+"
+Software Engineer Intern,"
+Di (Dee) Wang
+adg4af@r.postjobfree.com 404-***-**** Chicago, IL Willing to relocate #GHC2020 GHC2019
+Education
+University of Illinois at Urbana-Champaign Champaign, IL Aug 2020 M.S., Computer Science, GPA: 3.90/4.00
+Courses: Algorithm, Database System, Distributed System, Cloud Computing Applications, Machine Learning Georgia State University Atlanta, GA May 2014
+M.S., Mathematical Risk Mgmt, Major 3.5/4.0
+Courses: Financial Engineering, Applied Statistics, Economics, Quantitative Finance, Data Mining Skills
+Programming Language Python, C#, C++, JavaScript, SQL, Scala Technology AWS, .NET, MySQL, MongoDB, Neo4j, Spark, Kafka, Kubernetes, Docker, Jenkins Experience
+TDK Corporation Software Engineer (Intern) Lincolnshire, IL/ Remote Sep 2020 – Present Build and test web API (C#, MsSql, JavaScript, SOA, Redis) for online ordering system with Agile technology. Maintain and fix issues for Web Portal in JavaScript, jQuery, Bitbucket, Jira. Develop backend service for anomaly detector system to classify abnormal transactions/user account with Azure and Python. Work in Chatbot development project. Process conversation files in Spark. Write algorithm prototypes in C#. NeuroLeap Co, Software Engineer (Co-op) San Jose, CA Jul 2019 – Sep 2019 Rest API development between SQL Database and web UI for ETL and CRUD operations in Node JavaScript: user authentication, database integration/ migration.
+Participated in development of OpenCV/CUDA algorithm in C++ /python to process camera image of patients, including edge identification, movement tracking, perspective transformation. Configured build with GPU and cuDNN to accelerate process. Academics & Projects
+Cloud App with Chatbot : Database-Driven Recipe Search Engine Cloud App link http://ec2-3-85-177-43.compute-1.amazonaws.com/nutri/ Tech: MySQL, Neo4j (Graphic NoSQL), Python, JavaScript, AWS (Lex, Linux EC2, Lambda serverless) Designed database ERM/schema for MySql and Nosql, optimized DB performance by index, stored procedure, configurations, created graph model among 20k recipes. Integrated with AWS Lex Service with serverless functions, process users’ chatbot command in backend services/DB and return result JSON to user chatbot window. Citi Bike: Real-Time Traffic Monitoring App for New York Bike-Sharing System Cloud App link http://ec2-54-227-209-151.compute-1.amazonaws.com:8080/map Tech: Kafka, Python, JavaScript, AWS (SageMaker, S3, EC2), OpenSSL, Open Street Map Developed distributed data pipeline on AWS to merge streaming data feeds with OpenSSL, for 1k stations/13k bikes in New York, to generate traffic alert and real-time statistical metrics, predicting bike availability for bicyclers backed by data mining on 6 years’ historical data, displayed live station info and 5-minute predication on interactive New York Street Map. Implementation of Distributed System's Membership Protocol and Key-Value Storage System (NoSQL) Tech: C++, Fault Tolerance, UDP, Replica, Failure detection Implemented gossip style membership protocol over simulated nodes with scalability, to ensure all-the-time completeness and accuracy in failure detection with quorum consistency. Implemented fault-tolerant key-value store to support CRUD, load balancing, membership messaging, heartbeat. Achieved time-bounded write-write conflicts. Kubernetes CI/CD pipeline for Microservice Deployment Tech: Kubernetes, Docker, Jenkins, GitHub, CI/CD, TLS, YAML, etcd, ngix Binary-installed Kubernetes clusters on VMs, defined Jenkins pipeline to pull from GitHub and Build/Push/Pull Docker images, for three microservices( WordPress+ mySql+ Ngix). Wrote K8s scripts for pulling docker image, configuration of password/port, cluster resource provision in YAML. Used Jenkins to CI/CD web microservices onto distributed nodes.
+
+"
+Data Analyst or Software Engineer Intern,"
+CHANROOP RANDHAWA
+*** ***** ****** *** ***
+San Francisco, CA 94158
+(916) 467- 2211
+adeyw7@r.postjobfree.com
+Objective Organized, detail-oriented individual with a strong statistics background and excellent analytical and communication skills.
+Skills Summary
+• 1-year experience in Java
+• 1-year experience in C++
+• 1-year experience in R
+• 1-year experience in SAS
+• Quickly learn and master new technologies; great working in both team and independent settings
+• Github
+Projects Software Development / Expression Evaluator Project Using software development tools and object-oriented programing to create an object that evaluates mathematical expressions.
+Programming Methodology / Dictionary Project
+Used enum objects, object-oriented programing, and user interface to create an interactive dictionary. Up-Coming Projects Software Development / Term Project
+Using software development tools and object-oriented programing for my term project in Software Development. I will be designing and implementing the Tank Wars game in Java. Education San Francisco State University, Class of 2021
+Major: Mathematical Statistics; Minor: Computer Science CSC 210: Introduction to Computer Programing
+o Learned how to code in Java
+CSC 230: Discrete Mathematical Structures for Computer Science o Learned the connection between Mathematics and its applications to Computer Science Math 338: Introduction to SAS
+o Briefly covered the basics of SAS
+CSC 220: Data Structures
+o Learned linear and nonlinear structures in Java
+CSC 256: Machine Structures
+o Learned digital logic circuits, data representation and assembly language programing CSC 340: Programing Methodology
+o Advanced data structures and algorithms for manipulation in C++ CSC 413: Software Development
+o Modern software application, object-oriented techniques, software design, debugging Math 400: Numerical Analysis
+o Learned numerical solutions of algebra and calculus problems, interpolation and approximations. CSC 510: Analysis of Algorithms I
+o Learning notions of main algorithms design methods, measures of algorithm complexity in space and time and algorithms of classic problems.
+Experience Tutoring Club
+Tutor / 2016-2020
+Taught and helped students in various levels of math, science, language arts and standardized test preparation.
+
+"
+Software engineer intern,"
+EDUCATION
+Raghu Ram Thota
+Durham, NC-***** +1-803-***-****
+addqhf@r.postjobfree.com LinkedIn GithubProjectLists University of South Carolina Columbia, SC
+Master of Science in Computer Science and Engineering, GPA: 3.73 December 2019 Jawaharlal Nehru Technological University India
+Bachelor of Technology in Computer Science and Engineering, GPA: 9.27/10.00 April 2017 TECHNICAL SKILLS
+• Programming Experience: Java, C, C++, C#, Python, HTML, CSS, XML, JavaScript, typescript, ASP.NET, Node.js, React.js, Express.js, MongoDB, SQL, Oracle, PL/SQL, PHP.
+• Tools: Evo Suite, Git, Visual Studio, Eclipse, Maven, Jenkins, Selenium, Windows, Linux, Mac OS. CERTIFICATIONS
+• Full Stack Web Development: - LinkedIn
+PHP with MySQL Essential Training, Ruby on Rails 5, Node.js Essential Training, Building a Website with Node.js and Express.js, React.js Essential Certificate
+• Programming Foundations with JavaScript, HTML, and CSS Certificate - Duke University
+• Java 8: Data structures and Algorithms Certificate - LinkedIn
+• Getting Started with AWS Machine Certificate -AWS EXPERIENCE
+Software Engineer Intern at APEX IT System March 2020 – Present
+• Developing and directing software system validation and testing methods.
+• Working closely with clients and cross-functional departments to communicate project statuses and proposals.
+• Working on extending the employee portal by enhancing existing REST functionalities and adding new REST API services for new features.
+• Analyzing data to effectively coordinate the installation of n e w systems or the modification of existing systems. Java 8, Spring MVC, MySQL
+Graduate Research Assistant at University of South Carolina January 2018 – December 2019
+• Helped professor Dr. Gregory Gay in his research projects related to search-based software engineering and automated software testing and analysis.
+• Developed functional and automation test cases for various Java programs from the Defects4j framework and tested different combination of fitness functions (code coverages) that can be used to measure the power of existing test cases or as a target for automated test case generation.
+Graduate Teaching Assistant at University of South Carolina August 2018 – December 2018
+• Team Management-Guided IIIT, Art, Mechanical and Electrical department students in their Capstone project “The Us Bus”
+– a smart Bus to make them understand how to approach towards project idea, it’s requirements, design and implementation.
+• Scheduled weekly meetings, collaborate with them, monitor the progress and help them with HTML, JavaScript, CSS programming to create graphical interfaces in workstations, touch screens and it won the “second-best capstone project
+• Tutor and grader for SQL, Python, Electrical Lab Courses. Graduate Research Assistant at University of South Carolina January 2018 – May 2018
+• Helped professor Dr. Kimberly Priode in her research related to Evidence-Based Nursing practice.
+• Did Literature reviews related to Nursing student’s general practices like studying, maintain work life balance using American Psychological Association (APA) style and graded EPB recommendations and peer evaluations of related student coursework
+• Used MySQL to collect, store and manage data taken from near by hospital’s clinical data used for students studying. PROJECTS
+Bytecode-based Private and Inner functions coverage analysis in Automation of Test Suite Generation [Thesis Project]
+• Improvised an algorithm that generates test cases for java codes taken as input from Defect4j framework.
+• Predicted the best combination of fitness functions (Criteria like branch, line, MC coverages) and analyzed their coverages for private and internal functions using an automation tool, “EvoSuite’s” extended configurations. Compared the coverage results with previous work and achieved 8% more increase in coverage percentages. Java, EvoSuite, Eclipse, SpringMVC Building your own Instagram
+• Using MERN stack implemented Instagram. Build a backend API with Node.js & Express, API testing using Postman, used JWT based authentication.
+• Created Node js API for Authentication and used for posts, Implemented Authentication, posts, profile page on client side using React js. Like and unlike, comments, added follow and unfollow user feature, added profile pic and deploy, added forgot and reset password, showing latest post on top, search users feature. MongoDB, Express.js, React.js and Node.js Sentiment analysis
+• Collected reviews of Samsung Note 7 from Twitter API and applied data mining tools to clean the data and created data frames. Compared sentiments of each word from the feedback, obtained after passing through an improvised Decision tree- based NLP algorithm and then compared the overall sentiment of taken data.
+• Tested and analyzed accuracy measurements of data using Naïve Bayes Classifier and compared it with SVM and achieved an increase in 5% of accuracy in overall sentiment than that of previous research. Python, Twitter API, REST APIs Secure Banking System
+• Developed an Online Banking Application prototype of basic banking applications.
+• Designed and built features of Primary and Savings Account, Deposits and Withdrawals, Password Encryption, Transactions History, and Appointment Booking. Java, Spring, Hibernate, MySQL, REST APIs Evaluation of machine learning algorithms using clinical data of people suffering from ischemia
+• Compares the performance of logistic regression to decision-tree induction in classifying patients as having acute cardiac Ischemia and comparison were performed using the database of patients originally used to develop the logistic-regression tool and test it prospectively.
+• Both the ability to classify cases and ability to estimate the probability of ischemia were compared on the default tree generated by the C4 version of ID3.
+Face Detection App
+• Designed an app that detects a face in the picture provided by the user. Integrated the Clarifai API to get face region and location in the picture and developed a single web page using Reacts state and props. Clarifai API, HTML, CSS, Node.js Compiler for C++
+• Designed a compiler for C++ programming language which accepts all of its syntaxes and semantics using flex and Bison. Linux, flex, Bison.
+COURSE WORK
+• Software Engineering, Software Testing and Quality Assurance, Software Architecture, Database Management Systems, Data Mining, Big Data Analytics, Design and Analysis of Algorithms, Discrete Mathematics, Engineering Mathematics(I, II, III), Discrete Mathematical Structures, Basics of Electrical Engineering, Computer Architecture, Computer Organization, Data structures, Digital Logic Design, Probability and Statistics, Microprocessor and Interfacing, OOPS, Operating Systems, Theory of Computation, Compiler Design, Human Computer Interaction, Cryptography and Network Security, Mobile Computing, Web Technologies, Operations Research, Computer graphics, Digital Image Processing, OOAD, Principles of TCP/IP, Digital Image Processing and Labs/projects to almost above mentioned courses. Course work and transcript
+
+"
+Software Engineer Intern,"
+Brandon J. Russell
+
+Texas Ex
+Effable Writer
+Enthusiast for Linguistics
+Emergent Software Developer
+
+Austin, TX 78702
+737-***-****
+adcjpp@r.postjobfree.com
+OBJECTIVE
+
+Oracle-certified programmer who seeks to obtain an entry-level position in the realm of computer programming or software development, ideally for Java
+
+RELEVANT EXPERIENCE
+Baylor Scott & White Health Austin, TX — Software Engineering Intern
+February 2020 - Present
+Daily practice in C# (with Visual Studio) and JavaScript (with React)
+Create user interfaces and connect them to back-end APIs
+Experiment with design elements
+Review, test, and debug other engineers’ code
+EDUCATION
+
+Austin Community College, Continuing Education Austin, TX
+Certification in Java Development
+Courses Completed December 2019
+Thorough study, both theoretical and practical, in Java SE and EE
+Intermediate work in HTML and CSS
+Preliminary overview of JavaScript
+Created a web application that consists of a social forum for practice of phonetic transcription
+The University of Texas at Austin Austin, TX
+
+Bachelor of Arts in English Literature
+Graduated May 2017
+Studied primarily American, British, and Australian Literature
+
+Additionally studied Creative Writing, Linguistics (particularly Historical Linguistics and Phonetics), French, and Anthropology
+
+OTHER EXPERIENCE
+Courtyard by Marriot Austin – University Area Austin, TX — Front Desk Agent
+May 2018 – May 2019
+Performed all check-in and check-out tasks
+Managed online and phone reservations
+Informed guests about payment methods and verified their credit card data
+Provided information about the hotel, available rooms, rates and amenities
+Responded to guests’ complaints in a timely and professional manner
+Coordinated with housekeeping staff to ensure that all rooms were clean, tidy, and fully-furnished to accommodate guests’ needs
+Maintained records of bookings and payments by adding entries to a database
+Mood Media Austin, TX — Client Satisfaction Representative
+August 2017 – April 2018
+Resolved system issues through troubleshooting
+Created service work orders for unresolved technical issues
+Analyzed accounts in database to assist clients with technical, billing, and account questions
+Entered messages into database with every client interaction
+Continuously learned about new products, services, and company offers and internal processes
+The University of Texas at Austin, Architecture and Planning Library Austin, TX — Library Assistant
+June 2015 – July 2017
+Lent and collected books, periodicals, and other materials at the circulation desk
+Inspected returned books for condition and due-date status, and computed any applicable fines
+Entered and updated patrons’ records on a university-wide database
+Sorted books, publications, and other items, and returned them to shelves or other designated storage areas
+Processed new materials including books, audiovisual materials, and computer software
+Breakthrough Central Texas Austin, TX — Academic Coach / After-School Tutor
+July 2016 – May 2017
+Provided academic support to middle-school students, particularly in the realms of Language Arts and Writing
+
+Encouraged good study habits and organization of academic life
+
+Communicated regularly with Breakthrough management and the students’ teachers so as to impart an update on academic progress
+Study Soup Austin, TX — Note Taker
+January 2016 - May 2017
+Took thorough notes in various classes, with the goal of making them available on the Study Soup website for those students with a registered account
+
+Posted notes on the website at least weekly
+
+Uploaded a study guide at least four days before a given exam
+Hospitality Parking Austin, TX — Valet Supervisor
+May 2019 – October 2019
+Lead Valet Supervisor at W Austin
+Towne Park Austin, TX — Valet Attendant
+November 2019 – March 2020
+Valet Attendant at Hotel Van Zandt
+
+Solid experience in Core Java/Java1.7/Java1.8
+CERTIFICATIONS
+
+OCA Java SE 8 Programmer I 1Z0-808
+
+PORTFOLIOS
+https://github.com/bjr2494?tab=repositories
+https://bjrwrites.wixsite.com/work/work-1
+http://linkedin.com/in/brandon-russell-961638199
+
+SKILLS
+
+Java SE and J2EE
+C#/.Net Framework
+JavaScript
+React/Redux/Redux-Saga
+NodeJS
+JSON
+HTML/CSS
+XML
+Spring Framework/Spring MVC
+Spring Expression Language
+Thymeleaf
+Maven/Gradle
+Hibernate
+JavaServer Pages
+JavaServer Pages Standard Tag Library (JSTL)
+Java Persistence API
+Apache Tomcat
+Relational Databases
+Eclipse/NetBeans/ Visual Studio Enterprise
+.NET Core
+
+
+LANGUAGES
+French – Intermediate High
+Spanish – Novice High
+Old English - Limited Working Proficiency (Comprehension of Written Form)
+English-Lexifier and French-Lexifier Creole Languages - Limited Working Proficiency (Comprehension of Written Form)
+
+"

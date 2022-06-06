@@ -1,0 +1,42 @@
+
+MICHELE JONES
+michelejones@gmail.com
+github.io/__michj__
+Cleveland, OH
+Software Intern
+Renaud
+Hyderabad, India
+Renaud is an information technology company which develops and provided E-Commerce Solutions
+Contributed to development of 3 projects using python and Django
+Worked as Java developer for 6 months in FranConnect franchise project.
+Debugged a long pending Auto-login issue in GUI for regression platform on day 1
+Decommissioned over 3 different types of applications including support for legal hold.
+Software Intern
+Schmeler
+Cleveland, OH
+Schmeler is movie ticketing website.
+Created tools to standardize and simplify work processes for Aspire 400.
+Taught Python and Django to the batch of 28 students in a project based learning environment.
+Developed a Industry Foundation Classes Parser for generating 3D Graphics using c++
+Coding
+JavaC#JavascriptPythonPHPDjango
+Project management
+TrelloJira
+Embedded Systems
+Cross CompilationKernel Hacking
+BSBC Computer Science
+Cleveland State University
+Coursework in Data Structures & Algorithms
+Designed a project management & learning environment for a class of 40 students
+Award for Upcoming SoftHero for 2018
+The Chef
+https://github.com/---/TheChef
+Graduation Project
+The Chef is a mobile application which is
+developed in Android Studio in Java. The Chef is a handbook of the recipes. The Chef is the application which shows the recipes including the ingredients of user's selection. It gave me a great graduation score (95/100) and a reference letter by my professor.
+Finance Tool for Amateur Sport Clubs 
+https://github.com/---/CRMFinanceSoftware
+Financial CRM Software Project - Developed at Code Academy
+The project is a Financial CRM Software which is developed for Amateur Sport Clubs to have the controls on finance (expenses & incomes). The CRM Project is a Windows Form Project which is developed in C# with the technology of Entity Framework and the approach of N-Tier Architecture. Currently working on platform change to the technology of ASP.NET MVC 5.
+www.enhancv.com
+Remove branding

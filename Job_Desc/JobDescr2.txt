@@ -1,0 +1,29 @@
+Job Title: Data Architect/Data Modeler
+
+Location: Washington, DC
+
+Duration: 12 Months (Possible Extension)
+
+Specific Responsibilities:
+
+Develop ideal target data model for new CCWIS and work with vendor to implement actual data model
+Evaluate and document current state of data quality
+Come up with and track data quality improvement actions
+Manage Data Quality activities and maintain the client Data Quality Plan
+Maintain data inventories and when possible reduce data capture and maintenance systems
+Develop agendas, schedule meetings, develop action items for the Data Quality Committee and its subcommittees Conduct data quality analysis and develop recommendations for the Committees
+Develop a documentation framework (using online capabilities such as SharePoint, Wiki, other tools) to continuously capture and update data quality standards, exception report processing, data and domain definitions
+Develop and maintain report catalogue
+Support development of a campaign to raise the level of awareness and action on the part of staff members to contribute to solving our data quality issues versus contributing to them
+Work with a system integrator vendor to support data conversion effort
+Develop data conversion quality control and quality assurance processes
+Skills:
+
+Conveying technical and functional concepts for a specific technical specialty-Required-11-15-Years
+Preparing complex technical documentation-Required-11-15-Years
+Bachelor’s degree in IT or related field or equivalent experience-Required-15-Years
+SQL queries Highly desired-Required-7-Years
+Data quality initiatives, data modeling, or data architecture Required-Required-11-Years
+Experience in Human Services, Child Services, or K-12 Education-Nice to have-2-Years
+Experience with scripting/data analysis languages such as R, Python, Perl, Javascript, etc Required-Required-7-Years
+Project Management Experience-Required-6-Years
